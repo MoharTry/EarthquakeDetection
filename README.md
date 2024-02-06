@@ -1,4 +1,4 @@
-![Title Image]()
+
 # Arduino Earthquake Detector Alarm with Seismic Graph using Accelerometer
 
 ## Introduction:
